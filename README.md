@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Gee, you must be unlucky to have gotten here!
 
 - 🔭 I’m currently working on **Improving my dev skills**
 - 🌱 I’m currently learning **Computer Science** at **La Sapienza, Rome**
