@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Site](https://francymak.com) - [Discord](https://discordapp.com/users/234236409429491712) - [eMail](mailto:mailto:francy@francymak.com?subject=I%20am%20contacting%20you!&body=Hello!%20I%20am%20contacting%20you%20for%20...)
 - 😄 Pronouns: **He/Him**
 - 🌍 Living in the **Land of Pasta (Italy)**
-- 🗣 Languages: **Italian 🇮🇹 & **English** 🇬🇧
+- 🗣 Languages: **Italian 🇮🇹 & English 🇬🇧**
