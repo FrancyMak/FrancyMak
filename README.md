@@ -17,4 +17,7 @@ Gee, you must be unlucky to have gotten here!
 
 <p>Database Management and ORM</p>
 
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="max-width: 100%;" /> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="max-width: 100%;" /> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="max-width: 100%;" /> <img src="https://img.shields.io/badge/prisma-%2307405e.svg?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" style="max-width: 100%;" />
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="max-width: 100%;" /> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="max-width: 100%;" /> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="max-width: 100%;" /> <img src="https://img.shields.io/badge/PRISMA.IO-2D3748?style=for-the-badge&logo=PRISMA" alt="PRISMA.IO" />
+
+<p>Systems</p>
+<img src="https://img.shields.io/badge/LINUX-gray?style=for-the-badge&logo=LINUX&logoColor=FCC624" alt="LINUX" />
